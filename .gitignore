@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.onnx
+*.onnx.data
+*.log
+*.mp4
+*.gif
+events.out.tfevents.*
+logs/
+runs/
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+
+# 例外：随仓库附带的推荐交付权重
+!models/v35_17700.pt
+# 例外：作为结果证据保留的训练日志
+!training_logs/train_v35.log

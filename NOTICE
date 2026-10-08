@@ -1,0 +1,13 @@
+OpenDuckMini push-recovery
+Copyright 2026 OpenDuckMini push-recovery contributors
+
+This product includes robot model assets derived from Open Duck Mini
+(https://github.com/apirrone/Open_Duck_Mini), licensed under the Apache
+License, Version 2.0. The MJCF scene and mesh assets under assets/xmls/
+originate from that project and retain their original license terms.
+
+The training environment design follows published recommendations from the
+microduck / microduck_rl project (pollen-robotics).
+
+The "microtest" experiment notes under docs/ are original work of this
+repository's authors.
